@@ -22,7 +22,7 @@ public class Project01 {
          2-  O(n^2)
          =================================
 
-         3- 18 sayısı avarage case kapsamına girer.
+         3- 18 sayısı avarage case
 
          4-   [7,3,5,8,2,9,4,15,6]
          =================================
